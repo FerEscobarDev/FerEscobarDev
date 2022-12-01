@@ -7,7 +7,7 @@
 I'm a full stack developer, self-taught and passionate about programming. <br>
 Developer in [ExchangeLatam](https://exchangelatam.com)
 
-## Tecnologías:
+## Technologies:
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
