@@ -52,7 +52,7 @@ Developer in [ExchangeLatam](https://exchangelatam.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FernandoEscobar-0077B5?style=plastic&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jeisonfernandoescobarbermudezdev)
 [![Web](https://img.shields.io/badge/Web-FernandoEscobar.dev-14a1f0?style=plastic&logo=dev.to&logoColor=white&labelColor=101010)](https://fernandoescobar.dev)
 
-
+<!--
 ## Statistics:
 
 
@@ -61,7 +61,7 @@ Developer in [ExchangeLatam](https://exchangelatam.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerEscobarDev&layout=compact)](https://github.com/FerEscobarDev/github-readme-stats)
 
-<!--
+
 
 ![](https://scontent-bog1-1.xx.fbcdn.net/v/t39.1997-6/293006600_1150788305795991_1723580786972282904_n.webp?stp=dst-webp_p100x100&_nc_cat=109&ccb=1-7&_nc_sid=ac3552&_nc_eui2=AeFB7nH8hxGhuLUiVAG94GvcjmA0-9opxI6OYDT72inEjt1xXiVONcmtefdgVXSXCCE&_nc_ohc=eT0XsK3BO00AX8f1gtY&_nc_ht=scontent-bog1-1.xx&oh=00_AfAXgcxLBpiPBgreNsLj1qvHnzFalwKRgemv5nf-wR19Qw&oe=638C3679)
 
